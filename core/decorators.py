@@ -85,7 +85,7 @@ def handle_error(func: Callable) -> Callable:
         except BaseException:
             lang = config.LANGUAGE
         try:
-            await app.join_chat("Legendbot_AI")
+            await app.join_chat("Masti_in_dosti")
         except UserAlreadyParticipant:
             pass
         try:
