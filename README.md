@@ -3,17 +3,17 @@
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-- [![Deploy](https://te.legra.ph/file/5532de782efaf0acfe7c3.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/3bd02076181b4e6e9ccb1.jpg)](https://heroku.com/deploy/)
 
 
 -------------
 
-## [REPL](https://replit.com/@PROBOY-OP/PRO-LEGENDBOT#main.py)
+## [REPL](https://t.me/admssgenbot)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-AI/LEGEND-MUSIC
-$ cd LEGEND-MUSIC
+$ git clone https://github.com/MR-KANNADIGA/KANNADIGA-MUSIC
+$ cd KANNADIGA-MUSIC
 $ cp sample.env .env
 < edit .env with your own values >
 $ sudo docker build . -t musicplayer
