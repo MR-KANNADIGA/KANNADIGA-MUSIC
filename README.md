@@ -1,4 +1,4 @@
-## 𝙺𝙰𝙽𝙽𝙰𝙳𝙸𝙶𝙰 MUSIC USERBOT 
+## KANNADIGA MUSIC USERBOT 
 
 
 ## 🚀 <a name="deploy"></a>Deploy
